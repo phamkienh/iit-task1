@@ -2,13 +2,13 @@
 
 > CAUTION: This is AI-generated overview on the given topic.
 
-> **TL;DR**: AI won’t replace all jobs, but it will reshape **tasks** within most jobs, speed up some careers, diminish others, and create new roles. The outcome depends on **how** we adopt AI, how quickly we **reskill**, and which **policies** we put in place.
+> **TL;DR**: AI won’t replace _all_ jobs, but it will reshape **tasks** within most jobs, speed up some careers, diminish others, and create new roles. The outcome depends on **how** we adopt AI, how quickly we **reskill**, and which **policies** we put in place.
 
 &nbsp;
 
 # 1) The wrong question: jobs vs. tasks
 
-When people ask “Will AI take our jobs?”, they usually imagine whole occupations disappearing. History (electricity, PCs, the internet) suggests something subtler: technologies **automate tasks**, which changes **job content, productivity,** and **demand**. That’s why economists talk about task-level automation rather than job-level extinction.
+When people ask “Will AI take our jobs?”, they usually imagine whole occupations disappearing. History (electricity, PCs, the internet) suggests something subtler: technologies **automate tasks**, which changes **job content, productivity,** and **demand**. That’s why economists talk about _task-level_ automation rather than job-level extinction.
 
 - **Automation**: AI directly performs parts of the work (e.g., summarizing emails, drafting text, classifying support tickets).  
 - **Augmentation**: AI helps humans do the work faster or better (e.g., code suggestions, data cleaning assistants).  
@@ -19,10 +19,10 @@ A good rule of thumb:
 | Today’s reality | What changes with AI |
 |---|---|
 | Jobs are bundles of many tasks. | Some tasks get automated; the rest rise in relative importance. |
-| Experience → productivity gains. | AI can compress the experience curve for juniors. |
+| Experience → productivity gains. | AI can **compress the experience curve** for juniors. |
 | Skills decay without practice. | Continuous learning + AI tools becomes part of the job. |
 
-> Key idea: Tasks are automated; jobs are redesigned.
+> **Key idea: Tasks** are automated; **jobs** are redesigned.
 
 &nbsp;
 
@@ -35,7 +35,7 @@ A good rule of thumb:
 **Medium‑term labor‑market exposure (macro evidence).**
 - The **IMF** estimates about **40% of global employment** is exposed to AI (higher in advanced economies), with mixed effects: some jobs will be complemented (higher productivity, possibly higher wages), others displaced.[^imfblog]  
 - An **ILO** global analysis (using ISCO data + GPT‑4 task mapping) suggests most occupations are **more exposed to augmentation than full automation**; clerical work shows the highest automation exposure.[^ilo]  
-- The **OECD Employment Outlook** finds early deployments more often **change job quality and tasks** than reduce employment outright—so far. Effects on job quantity may lag adoption.[^oecd]
+- The **OECD Employment Outlook** finds early deployments more often **change job quality and tasks** than reduce employment outright—_so far_. Effects on job quantity may lag adoption.[^oecd]
 
 **Forecasts (always uncertain).**  
 - The **WEF Future of Jobs 2025** projects **~170 million jobs** created and **~92 million displaced** globally by 2030 (a **net +78 million**), driven by tech, green transition, and demographics. Skills needs will shift toward AI/data, cybersecurity, and adaptability.[^wef2025]  
@@ -66,9 +66,9 @@ A good rule of thumb:
 1. **Time allocation** shifts: less rough‑drafting, more reviewing, prompting, verifying.  
 2. **Quality bars** rise: if AI drafts “good enough”, human value moves to **problem framing, data/context curation, taste,** and **verification.**  
 3. **Skills portfolio** updates: promptcraft, toolchain literacy (APIs, automation), security/privacy hygiene, critical reading of AI output.  
-4. **Metrics** change: throughput and cycle time improve; judgement errors (hallucinations, misclassifications) become the new bottlenecks to manage.
+4. **Metrics** change: throughput and cycle time improve; _judgement errors_ (hallucinations, misclassifications) become the new bottlenecks to manage.
 
-> **Design principle for teams**: Automate the boring, amplify the human.
+> **Design principle for teams**: _Automate the boring, amplify the human._
 
 &nbsp;
 
@@ -97,7 +97,7 @@ A simple checklist for any AI‑assisted task:
 - **Guardrails**: data protection, bias testing, provenance/watermarking, and incident response.  
 - **Safety nets**: transition support where displacement is concentrated.  
 
-> **Reality check**: AI’s net effects depend on **choices—** of firms (deployment), governments (policy), and individuals (skills).
+> **Reality check**: AI’s _net_ effects depend on **choices—** of firms (deployment), governments (policy), and individuals (skills).
 
 &nbsp;
 
